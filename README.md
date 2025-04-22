@@ -2,6 +2,14 @@
 
 Turn your imagination into stunning visuals with this AI-powered image generation web app. Just describe your idea, choose your model and settings, and get AI-generated images in seconds.
 
+Screenshot:
+![image](https://github.com/user-attachments/assets/41c2c03d-8721-4fd7-8b94-1efcb22892d9)
+![image](https://github.com/user-attachments/assets/5d0f52c1-bc4e-47b0-a079-1fa9c8e0e16c)
+![image](https://github.com/user-attachments/assets/bf1e0d95-67b5-4bdd-8055-2a17a9298d21)
+
+
+
+
 ## ✨ Features
 
 - 🎨 **Multi-Model Support**  
@@ -13,53 +21,49 @@ Turn your imagination into stunning visuals with this AI-powered image generatio
   - Openjourney
 
 - 🖼️ **Custom Image Settings**  
-  Select:
+  Fine-tune your outputs by selecting:
   - Number of images (1–4)
-  - Aspect ratios (Square, Landscape, Portrait)
+  - Aspect ratio (Square, Landscape, Portrait)
 
-- 💡 **Prompt Generator**  
-  A fun dice button to spark your creativity with random prompts.
+- 🎲 **Prompt Generator**  
+  A fun dice button that gives random prompt ideas.
 
 - 🌗 **Dark Mode Toggle**  
-  Easily switch between light and dark themes.
+  Instantly switch between light and dark themes using the moon icon in the header.
 
 - ⚡ **Responsive UI**  
-  Clean, modern layout styled with Montserrat & Inter fonts.
+  Clean, modern design optimized for all screen sizes. Styled using **Montserrat** & **Inter** fonts.
+
+---
 
 ## 🚀 Getting Started
 
-3. Customize
-You can modify:
+1. **Clone the repository**
 
-style.css for styling
-
-Add backend/JS to connect with real image generation APIs if needed
-
-📁 Project Structure
-bash
-Copy
-Edit
+git clone https://github.com/your-username/ai-image-generator.git
+cd ai-image-generator
 📁 ai-image-generator
-├── 📄 index.html        # Main HTML file
-├── 📄 style.css         # All the styles
-└── 📄 README.md         # This file
-🛠️ Future Ideas
-Connect to real AI image generation APIs (like Stability AI, Hugging Face)
+├── 📄 index.html        # Main HTML structure
+├── 📄 style.css         # All visual styles and layout
+└── 📄 README.md         # You're reading it!
 
-Add image history or gallery view
+🔮 Future Ideas
+Connect to real AI image generation APIs (Stability AI, Hugging Face, etc.)
 
-Let users download generated images
+Add image history or a gallery view
 
-Add loading animations and error handling
+Enable image download functionality
 
-🧑‍💻 Built With
+Include loading animations and error messages
+
+🛠️ Built With
 HTML5
 
 CSS3
 
-Font Awesome
+Font Awesome Icons
 
 Google Fonts (Montserrat & Inter)
 
-🧠 Author
+🧑‍💻 Author
 Kshitij Patil
